@@ -22,7 +22,7 @@
         "BACKGROUND_TERTIARY": ["#1f1f1f"],
         "CHANNELTEXTAREA_BACKGROUND": ["#c9c9c9"],
         "CHAT_BACKGROUND": ["#252525"],
-        "INTERACTIVE_NORMAL": ["#9b9b9b"],
+        "INTERACTIVE_NORMAL": ["#9b9b9b"]
     },
     "rawColors": {
         "BRAND_260": "#9b9b9b",
