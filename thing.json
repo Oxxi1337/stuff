@@ -24,9 +24,5 @@
         "CHAT_BACKGROUND": ["#252525"],
         "INTERACTIVE_NORMAL": ["#9b9b9b"]
     },
-    "background": {
-        "blur": 0,
-        "alpha": 0.68
-    },
     "spec": 2
 }
