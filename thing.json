@@ -24,15 +24,6 @@
         "CHAT_BACKGROUND": ["#252525"],
         "INTERACTIVE_NORMAL": ["#9b9b9b"]
     },
-    "rawColors": {
-        "BRAND_260": "#9b9b9b",
-        "BRAND_360": "#9b9b9b",
-        "BRAND_500": "#757575",
-        "BRAND_560": "#9b9b9b",
-        "PRIMARY_400": "#9b9b9b",
-        "PRIMARY_600": "#2a2a2a",
-        "PRIMARY_660": "#2a2a2a"
-    },
     "background": {
         "blur": 0,
         "alpha": 0.68
